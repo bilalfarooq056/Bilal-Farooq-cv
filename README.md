@@ -1,2 +1,5 @@
-# Bilal Farooq Resume
-cv details givin as pdf.
+# My CV
+
+This repository contains my up-to-date resume.
+
+📄 [Click here to view/download my CV](https://github.com/bilalfarooq056/my-cv/raw/main/Bilal_Farooq_CV.pdf)
