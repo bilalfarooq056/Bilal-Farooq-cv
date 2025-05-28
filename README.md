@@ -1,3 +1,3 @@
-# My-new-account-transfered
+# Bilal Farooq Resume
 this is to inform i trnasfered my  to my new account
-cv details 
+cv details givin as pdf.
